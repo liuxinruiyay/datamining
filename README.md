@@ -1,7 +1,8 @@
 # datamining
 研究生数据挖掘作业
 # 数据集1:Wine Reviews
-This dataset contains three files:\n
+This dataset contains three files:
+
 1.winemag-data-130k-v2.csv contains 10 columns and 130k rows of wine reviews.
 
 2.winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews.
